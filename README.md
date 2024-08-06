@@ -1,4 +1,4 @@
-Oi, eu sou a Louise 😊
+Hi, I'm Louise 😊
 - ✈️ I’m interested in Games and travels
 - 📚 I’m currently learning Front-end Development
 - 💡 I’m looking to collaborate on open source and game projects
